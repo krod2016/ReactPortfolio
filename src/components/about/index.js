@@ -1,9 +1,10 @@
-
 import React from 'react';
-import coverImage from '../assets/images/katrina.jpg';
+import coverImage from '../../images/katrina.jpg';
+
 function About() {
   return (
     <section className="my-5">
+          <hr></hr>
       <h1 id="about">About Me</h1>
       <img src={coverImage} className="my-2" style={{ width: "30%" }} alt="cover" />
       <div className="my-2">

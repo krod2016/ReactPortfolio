@@ -18,7 +18,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          Portfolio for Katrina Rodriguez
+         Katrina Rodriguez
         </a>
       </h2>
       <nav>
@@ -28,7 +28,7 @@ function Nav(props) {
               About me
             </a>
           </li>
-          <li className={`mx-2 ${contactSelected && 'navActive'}`}>
+         <li className={`mx-2 ${contactSelected && 'navActive'}`}>
             <span onClick={() => setContactSelected(true)}>Contact</span>
           </li>
           {categories.map((category) => (
@@ -50,6 +50,7 @@ function Nav(props) {
         </ul>
       </nav>
     </header>
+
   );
 }
 
