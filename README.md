@@ -3,7 +3,7 @@
 ## Description
 This is a collection of my works from 'Full Stack Developer Bootcamp' from UT-Austin
 
---screenshot--
+![Portfolio - homepage](./assets/screenshot/portfolio-homepage.png)
 Here is a screenshot of the site
 
 ## Made With
@@ -15,7 +15,7 @@ Here is a screenshot of the site
 
 ## Links
 * GitHub: https://github.com/krod2016/ReactPortfolio
-* Deployed: 
+* Deployed: https://krod2016.github.io/ReactPortfolio/
 
 ## Made By:
 Katrina Rodriguez
