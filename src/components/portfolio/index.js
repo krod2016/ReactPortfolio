@@ -56,6 +56,15 @@ const projects = [
     github: "https://github.com/krod2016/TeamProfileGenerator",
     link: "https://watch.screencastify.com/v/UL7hLqNFJyRraW2LfLnt"
   },
+  {
+    id: 6,
+    title: "Program-Her",
+    languages: "",
+    image: "",
+    description: "This page allows women to connect through coding, and supporting each other in their daily lives.",
+    github: "https://github.com/candre02/Program-Her",
+    link: ""
+  }
 ];
 
 function Portfolio() {

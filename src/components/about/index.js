@@ -9,7 +9,7 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "30%" }} alt="cover" />
       <div className="my-2">
         <p>
-        Hello! Thank you for reading my portfolio. My name is Katrina Rodriguez, and I am from San Antonio, Texas. I am currently on the tail end of my Full Stack Developer Certificate from UT-Austin. I have a bachelors of Science from Utah State University (Go Aggies!) in Anthropology, and a certificate in Museum Studies. I love to learn about everything, and anything that I can get my hands on.
+        Hello! Thank you for reading my portfolio. My name is Katrina Rodriguez, and I am from San Antonio, Texas. I am a recent graduate of the Full Stack Developer Bootcamp from UT-Austin. I also have a bachelors of Science from Utah State University (Go Aggies!) in Anthropology, and a certificate in Museum Studies. I love to learn about everything, and anything that I can get my hands on.
         </p>
       </div>
     </section>
