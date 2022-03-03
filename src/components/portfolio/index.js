@@ -58,12 +58,12 @@ const projects = [
   },
   {
     id: 6,
-    title: "Program-Her",
-    languages: "",
-    image: "",
+    title: "ProgramHer",
+    languages: "Apollo Client, Chakra UI, Concurrently, Faker, Framer-Motion, GraphQL, Heroku, HTML, JavaScript, JWT-decode, React",
+    image: "images/programher.png",
     description: "This page allows women to connect through coding, and supporting each other in their daily lives.",
     github: "https://github.com/candre02/Program-Her",
-    link: ""
+    link: "https://programher2.herokuapp.com/"
   }
 ];
 
